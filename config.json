@@ -1,0 +1,19 @@
+{
+    "text_analytics_key":"your text analytics key",
+    "text_analytics_endpoint": "your text analytics endpoint",
+    "translator_key": "your translator key",
+    "translator_text_endpoint": "your translator text endpoint",
+    "translator_documents_endpoint": "your translator endpoint",
+    "sa_connectionstring":"your storage account connection string",
+    "sa_account_name": "your storage account name",
+    "sa_key":"your storage account key",
+    "sa_container_suffix": "blob.core.windows.net/",
+    "sa_source_url":"read sas for source folder",
+    "sa_target_url":"write sas for target folder",
+    "region": "your resource region",
+    "pdfs_path": "local path to pdf data folder",
+    "preprocessed_path": "local path to docx data folder",
+    "output_path": "local path to output data folder",
+    "translated_path":"local path to translated data folder"
+}
+
